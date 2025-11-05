@@ -1,0 +1,1 @@
+select * from  db_Churn1.dbo.Customer_Data
