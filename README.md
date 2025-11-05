@@ -71,6 +71,6 @@ This project demonstrates the power of combining **Python for analysis** and **P
 
 ## ✨ Author
 
-**Devu**
+**Shibin**
 📍 Kannur, Kerala
 💼 Aspiring Data Analyst | Passionate about Data Visualization & Machine Learning
